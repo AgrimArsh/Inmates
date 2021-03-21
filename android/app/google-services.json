@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381989949973",
+    "project_id": "roommates-tinder",
+    "storage_bucket": "roommates-tinder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381989949973:android:464f9e24d619d3321cf41c",
+        "android_client_info": {
+          "package_name": "com.room.roommates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381989949973-ntjm6g1stlt8d8ad99j3v53jo140o6a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjtVxT5I2AYVPqZtdj3cjo-09fDDx2afM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381989949973-ntjm6g1stlt8d8ad99j3v53jo140o6a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
